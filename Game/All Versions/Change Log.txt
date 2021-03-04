@@ -1,0 +1,15 @@
+Version: 0.0.1
+Release Date: 1/28/2021
+Info: "First" Version. Had the 3D Hub Worlds.
+
+Version: 0.1.0
+Release Date: 3/3/2021
+Info: First Real Version of the Game. Made so I could test it on a diffrent computer.
+
+Version: 0.1.1
+Release Date: 3/3/2021
+Info: Added Speedrun Timer because why not.
+
+Version: 0.1.2
+Release Date: 3/4/2021
+Info: Fixed a bug where it froze the entire game...
