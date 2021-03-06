@@ -1,3 +1,3 @@
 # Caelan-Adventure-2
 
-Download the launcher so that the game automatically updates.
+Offical Game Page: https://benjamin-halko.itch.io/caelans-adventure-2
