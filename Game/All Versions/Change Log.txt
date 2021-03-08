@@ -17,3 +17,7 @@ Info: Fixed a bug where it froze the entire game...
 Version: 0.1.3
 Release Date: 3/5/2021
 Info: Added Crate Conveyor Belt Hallway
+
+Version: 0.1.4
+Release Date: 3/7/2021
+Info: Added Final Part Before Boss
