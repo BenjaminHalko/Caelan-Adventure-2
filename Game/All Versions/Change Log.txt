@@ -6,18 +6,22 @@ Version: 0.1.0
 Release Date: 3/3/2021
 Info: First Real Version of the Game. Made so I could test it on a diffrent computer.
 
-Version: 0.1.1
+Version: 0.1.0b
 Release Date: 3/3/2021
 Info: Added Speedrun Timer because why not.
 
-Version: 0.1.2
+Version: 0.1.0c
 Release Date: 3/4/2021
 Info: Fixed a bug where it froze the entire game...
 
-Version: 0.1.3
+Version: 0.1.0d
 Release Date: 3/5/2021
 Info: Added Crate Conveyor Belt Hallway
 
-Version: 0.1.4
+Version: 0.1.0e
 Release Date: 3/7/2021
 Info: Added Final Part Before Boss
+
+Version: 0.1.1
+Release Date: 3/30/2021
+Info: Added the Chasing Saws and the Factory Boss
