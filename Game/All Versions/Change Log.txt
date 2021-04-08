@@ -25,3 +25,7 @@ Info: Added Final Part Before Boss
 Version: 0.1.1
 Release Date: 3/30/2021
 Info: Added the Chasing Saws and the Factory Boss
+
+Version: 0.1.1b (Tested)
+Release Date: 4/8/2021
+Info: Fixed the camera, added swinging lights.
